@@ -1,0 +1,10 @@
+
+#!/bin/bash
+#!/bin/bash
+grep -A 3 'root' /etc/passwd
+
+#!/bin/bash
+grep -A 3 'root' /etc/passwd
+
+#GGgrep -A 3 'root' /etc/passwd
+
